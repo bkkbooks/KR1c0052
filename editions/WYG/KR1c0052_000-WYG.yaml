@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1c0052/WYG/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 詩札
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:06:34.216744'
+  source:
+    repository: kanripo
+    path: KR1c0052/KR1c0052_000.txt
+hash: sha256:21894938a5f9ce0222e5d70c2bfdeecf924e7e910a18e6790d9d2d8250f18409
